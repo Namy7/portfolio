@@ -1,3 +1,10 @@
+#### `about.md`
+```markdown
+---
+layout: default
+title: About
+---
+<link rel="stylesheet" href="assets/style.css">
 
 # About Me
 
@@ -7,3 +14,4 @@ I am a Data Analyst passionate about turning data into actionable insights. I ha
 - Expertise in data visualization
 - Experience with predictive modeling
 - Love for data-driven decision-making
+```
