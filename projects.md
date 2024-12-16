@@ -1,3 +1,11 @@
+#### `projects.md`
+```markdown
+---
+layout: default
+title: Projects
+---
+<link rel="stylesheet" href="assets/style.css">
+
 # Portfolio Projects
 
 ## Project 1: Sales Analysis
@@ -9,3 +17,4 @@
 - **Description**: Used machine learning to group customers for targeted marketing.
 - **Tools Used**: Python, Scikit-Learn
 - **Link**: [View Project on GitHub](https://github.com/yourusername/customer-segmentation)
+```
