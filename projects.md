@@ -1,9 +1,4 @@
-#### `projects.md`
-```markdown
----
-layout: default
-title: Projects
----
+
 <link rel="stylesheet" href="assets/style.css">
 
 # Portfolio Projects
