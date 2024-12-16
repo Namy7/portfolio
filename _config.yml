@@ -1,2 +1,5 @@
-title: Namrata Vihol
-theme: jekyll-theme-minimal 
+title: "Namrata's Portfolio"
+theme: minima
+description: "Data Analyst | Portfolio"
+baseurl: "/Portfolio"
+url: "https://yourusername.github.io"
