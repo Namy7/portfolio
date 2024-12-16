@@ -1,9 +1,4 @@
-#### `about.md`
-```markdown
----
-layout: default
-title: About
----
+
 <link rel="stylesheet" href="assets/style.css">
 
 # About Me
