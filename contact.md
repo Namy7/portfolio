@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 # Contact Me
 
 Feel free to reach out to me!
